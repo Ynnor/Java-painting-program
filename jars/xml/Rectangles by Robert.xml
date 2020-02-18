@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drawing>
+    <name>Rectangles</name>
+    <author>Robert</author>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#00ff00</color>
+        <point>
+            <x>50.0</x>
+            <y>50.0</y>
+        </point>
+        <point>
+            <x>550.0</x>
+            <y>300.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#0000ff</color>
+        <point>
+            <x>100.0</x>
+            <y>100.0</y>
+        </point>
+        <point>
+            <x>500.0</x>
+            <y>250.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>150.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>450.0</x>
+            <y>200.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ff0000</color>
+        <point>
+            <x>200.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>250.0</x>
+            <y>200.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ffff00</color>
+        <point>
+            <x>250.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>300.0</x>
+            <y>200.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#0000ff</color>
+        <point>
+            <x>300.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>350.0</x>
+            <y>200.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#00ff00</color>
+        <point>
+            <x>350.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>400.0</x>
+            <y>200.0</y>
+        </point>
+    </shape>
+</drawing>

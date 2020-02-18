@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drawing>
+    <name>Circles</name>
+    <author>Robert</author>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#00ff00</color>
+        <point>
+            <x>200.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>350.0</x>
+            <y>150.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>200.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>320.0</x>
+            <y>150.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#000000</color>
+        <point>
+            <x>200.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>290.0</x>
+            <y>150.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#ff0000</color>
+        <point>
+            <x>200.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>260.0</x>
+            <y>150.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#ffff00</color>
+        <point>
+            <x>200.0</x>
+            <y>150.0</y>
+        </point>
+        <point>
+            <x>230.0</x>
+            <y>150.0</y>
+        </point>
+    </shape>
+</drawing>
